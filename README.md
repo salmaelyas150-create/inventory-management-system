@@ -190,3 +190,6 @@ The current application stores inventory products in a Python list while the Fla
 ## 12. Author
 
 Developed as a Python Flask REST API and Inventory Management System project.
+## GitHub Repository
+
+https://github.com/salmaelyas150-create/inventory-management-system
